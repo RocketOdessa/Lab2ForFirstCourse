@@ -54,10 +54,22 @@
             this.volumeParallel = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.AddToGrid = new System.Windows.Forms.Button();
             this.forSearchButton = new System.Windows.Forms.RichTextBox();
+            this.openDialog = new System.Windows.Forms.OpenFileDialog();
+            this.saveDialog = new System.Windows.Forms.SaveFileDialog();
             searchRectAndCube = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridRect)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridParallel)).BeginInit();
             this.SuspendLayout();
+            // 
+            // searchRectAndCube
+            // 
+            searchRectAndCube.Location = new System.Drawing.Point(380, 417);
+            searchRectAndCube.Name = "searchRectAndCube";
+            searchRectAndCube.Size = new System.Drawing.Size(108, 48);
+            searchRectAndCube.TabIndex = 14;
+            searchRectAndCube.Text = "Search";
+            searchRectAndCube.UseVisualStyleBackColor = true;
+            searchRectAndCube.Click += new System.EventHandler(this.searchRectAndCube_Click);
             // 
             // Calculate
             // 
@@ -261,24 +273,18 @@
             this.AddToGrid.UseVisualStyleBackColor = true;
             this.AddToGrid.Click += new System.EventHandler(this.AddToGrid_Click);
             // 
-            // searchRectAndCube
-            // 
-            searchRectAndCube.Location = new System.Drawing.Point(380, 417);
-            searchRectAndCube.Name = "searchRectAndCube";
-            searchRectAndCube.Size = new System.Drawing.Size(108, 48);
-            searchRectAndCube.TabIndex = 14;
-            searchRectAndCube.Text = "Search";
-            searchRectAndCube.UseVisualStyleBackColor = true;
-            searchRectAndCube.Click += new System.EventHandler(this.searchRectAndCube_Click);
-            // 
             // forSearchButton
             // 
-            this.forSearchButton.Location = new System.Drawing.Point(160, 364);
+            this.forSearchButton.Location = new System.Drawing.Point(57, 314);
             this.forSearchButton.Name = "forSearchButton";
             this.forSearchButton.ReadOnly = true;
-            this.forSearchButton.Size = new System.Drawing.Size(187, 161);
+            this.forSearchButton.Size = new System.Drawing.Size(308, 259);
             this.forSearchButton.TabIndex = 15;
             this.forSearchButton.Text = "";
+            // 
+            // openDialog
+            // 
+            this.openDialog.FileName = "openFileDialog1";
             // 
             // Form1
             // 
@@ -304,6 +310,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridRect)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridParallel)).EndInit();
             this.ResumeLayout(false);
@@ -338,6 +345,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn volumeParallel;
         private System.Windows.Forms.Button AddToGrid;
         private System.Windows.Forms.RichTextBox forSearchButton;
+        private System.Windows.Forms.OpenFileDialog openDialog;
+        private System.Windows.Forms.SaveFileDialog saveDialog;
     }
 }
 

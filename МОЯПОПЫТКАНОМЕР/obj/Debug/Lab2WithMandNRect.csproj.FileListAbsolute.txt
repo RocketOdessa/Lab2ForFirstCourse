@@ -17,3 +17,13 @@ C:\Users\RocketOdessa\Desktop\lab2WithMandNRect\МОЯПОПЫТКАНОМЕР\o
 C:\Users\RocketOdessa\Desktop\lab2WithMandNRect\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WithMandNRect.csproj.CoreCompileInputs.cache
 C:\Users\RocketOdessa\Desktop\lab2WithMandNRect\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WitnNandMRect.exe
 C:\Users\RocketOdessa\Desktop\lab2WithMandNRect\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WitnNandMRect.pdb
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\bin\Debug\Lab2WitnNandMRect.exe.config
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\bin\Debug\Lab2WitnNandMRect.exe
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\bin\Debug\Lab2WitnNandMRect.pdb
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WithMandNRect.csprojAssemblyReference.cache
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\МОЯПОПЫТКАНОМЕР.Form1.resources
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WithMandNRect.csproj.GenerateResource.cache
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WithMandNRect.csproj.CoreCompileInputs.cache
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WitnNandMRect.exe
+C:\Users\RocketOdessa\Desktop\Lab2\Lab2ForFirstCourse\МОЯПОПЫТКАНОМЕР\obj\Debug\Lab2WitnNandMRect.pdb

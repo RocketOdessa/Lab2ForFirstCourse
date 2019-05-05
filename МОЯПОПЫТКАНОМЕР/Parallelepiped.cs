@@ -47,7 +47,7 @@ namespace МОЯПОПЫТКАНОМЕР
 
         new public string ToString()
         {
-            return "\nHeight of parallelepiped - " + Height_of_paralle + "\n Volume - " + Get_Volume() +
+            return "Height of parallelepiped - " + Height_of_paralle + "\n Volume - " + Get_Volume() +
                 "\nSquare of parallelepiped - " + Get_Square();
         }
     }
